@@ -227,7 +227,7 @@ Wayland kullanıyorsanız `scrot` yerine `grim` kurulabilir — araç otomatik o
 ## Kurulum
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/Keyboard-Backlight-Driver-For-Clevo-Monster-Tuxedo-Linux.git
+git clone https://github.com/berfinbtw/Keyboard-Backlight-Driver-For-Clevo-Monster-Tuxedo-Linux.git
 cd Keyboard-Backlight-Driver-For-Clevo-Monster-Tuxedo-Linux
 chmod +x kbd-rgb.py
 python3 kbd-rgb.py
